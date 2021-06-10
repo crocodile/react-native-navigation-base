@@ -2834,9 +2834,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.0.tgz#5f4c1d1e748d30cd73ad2944b3577a81b081e8c2"
-  integrity sha512-qjtRgnIVmOfnKUE3NJAQEdk+lKrxfw8t5ke7SXtfMTHcjsBfOfWXCQfdb30zfDoZQ2IRSIiidmjtbHZPZ++Ihw==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
@@ -5170,10 +5170,10 @@ react-lifecycles-compat@2.0.0:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-2.0.0.tgz#71d9c4cde47114c4102454f76da055c2bc48c948"
   integrity sha512-txfpPCQYiazVdcbMRhatqWKcAxJweUu2wDXvts5/7Wyp6+Y9cHojqXHsLPEckzutfHlxZhG8Oiundbmp8Fd6eQ==
 
-react-native-navigation@3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-3.2.0.tgz#3ed6cb82062959ba3b6c0ca6937e17575ac4d948"
-  integrity sha512-HfdLkwiEEIBGyg0cspSzL/gk+tQ1bfbiF5VvzGcB5t0ym1RRUpkfcf+Uv0P0SoKNDQ6UlUTGCUrjnqfVivwK9w==
+react-native-navigation@^3.2.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-3.7.0.tgz#cc0469d391e0e2bb2496d5a9853e036e7ec8ed11"
+  integrity sha512-MVJi95+P0zuaR+8M3VJzBr85rzebWUqYQpEaFI0yHeN3EsyyRTRYZZj5rUpOFVD3LI0P+b8pR4wI1rYakheMlg==
   dependencies:
     hoist-non-react-statics "3.x.x"
     lodash "4.17.x"
